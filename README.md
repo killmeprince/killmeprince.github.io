@@ -1,6 +1,6 @@
 # Привет, меня зовут Георгий!
 
-Java Backend Developer (Junior+/Middle)
+Java Backend Developer
 
 ---
 
