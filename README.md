@@ -11,6 +11,6 @@ Java Backend Developer and sometimes more
 ## 📫 Контакты
 
 - Email: highmanacreature@gmail.com
-- Telegram: [@highmanadev](https://t.me/highmanacreature)
+- Telegram: [тык](https://t.me/highmanacreature)
 ---
 
